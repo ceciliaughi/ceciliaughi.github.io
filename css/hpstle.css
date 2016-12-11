@@ -1,7 +1,11 @@
-body{background-image: "https://newevolutiondesigns.com/images/freebies/galaxy-wallpaper-30.jpg";
+html { 
+  background: url(http://i1030.photobucket.com/albums/y361/k_dot_codes/bagan-1137015_960_720_zpszinpk1le.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 h1{
 	color: black;
-	background-color: gray;
 }
